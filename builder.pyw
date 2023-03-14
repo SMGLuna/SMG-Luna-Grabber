@@ -32,6 +32,7 @@ class App(customtkinter.CTk):
         self.grid_columnconfigure(1, weight=1)
         self.dark_mode()
 
+        
         self.updated_dictionary = {
             "webhook": None,
             "ping": False,
